@@ -5,6 +5,7 @@ This is really awesome
 Updates made on master on GitHub before rebase
 
 <<<<<<< HEAD
+
 ## Purpose
 
 
